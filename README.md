@@ -73,12 +73,11 @@ Embedding → Conv1D → MaxPooling → LSTM → Dense → Dropout → Output
 
 **Test Accuracy: 95.35%**
 
-| Metric | Score |
-|---|---:|
-| Accuracy | **95.35%** |
-| Precision | 95–96% |
-| Recall | 95–96% |
-| F1-Score | 95% |
+| Class | Precision | Recall | F1-Score |
+|---|---:|---:|---:|
+| Negative | 0.95 | 0.96 | 0.95 |
+| Positive | 0.96 | 0.95 | 0.95 |
+| **Overall** | **0.95** | **0.95** | **0.95** |
 
 ## Model and Tokenizer
 
