@@ -1,0 +1,5 @@
+{
+    "vocab_size": 30000,
+    "max_sequence_length": 200,
+    "num_classes": 2
+}

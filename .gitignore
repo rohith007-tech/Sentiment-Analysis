@@ -1,0 +1,12 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.bz2
+*.csv
+*.parquet
+amazon_tokenizer.json
+.DS_Store
+Thumbs.db
